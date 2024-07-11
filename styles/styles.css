@@ -60,27 +60,26 @@ nav ul li{
 }
 #hero .hero-content .subtitle{
     color: rgb(13, 19, 33);
-font-family: Azeret Mono;
-font-size: 14px;
-font-weight: 400;
-line-height: 26px;
-letter-spacing: 0%;
-text-align: center;
-margin-top: 160px 73px 98px 73px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin-top: 160px 73px 98px 73px;
 }
 #hero .hero-content .btn-2{
+    height: 45px;
+    width: 150px;
     font-size: 15px;
-    font-weight:900px;
+    font-weight:600;
     background-color: #0D1321;
     color: white;
     margin-top: 17px;
     margin-right: 211px;
     margin-left: 211px;
     padding: 10px 14px 10px 14px;
-    border-radius: 10px;
+    border-radius: 8px;
     border:none
-    
-    
 }
 #hero .hero-content .btn-container{
     text-align: center;
